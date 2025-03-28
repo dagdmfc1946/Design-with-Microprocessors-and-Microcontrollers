@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style type="text/css">
+            body {
+                color: blue;
+                background-color: rgba(172, 255, 47, 0.753);
+            }
+            #seccion1 {
+                font-size: 40px;
+                text-align: center;
+                color: whitesmoke;
+                background-image: url(https://media.istockphoto.com/id/188143585/es/foto/c%C3%B3digo-html-web.jpg?s=1024x1024&w=is&k=20&c=60r0fwONZzmr-iVKjqctwokCcYLWLs_16Iv09kTxu1M=);
+                background-size: 1350px 400px;
+            }
+
+            #seccion2 {
+                font-size: 30px;
+                text-align: center;
+                color: black;
+                background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Universidad_Industrial_de_Santander_logo.svg/1024px-Universidad_Industrial_de_Santander_logo.svg.png);
+                background-size: contain;
+            }
+
+            #proyectos {
+                display: grid;
+                grid-template-columns: auto auto;
+                text-align: center;
+            }
+
+            .proyecto img{
+                height: 300px;
+                width: 420px;
+            }
+        </style>
+    </head>
+
+    <body>
+        <section id="seccion1">
+            <h1> ¡BIENVENIDO A MI PRIMERA PÁGINA WEB! </h1>
+        </section>
+
+        <section id="seccion2">
+            <h2> Universidad Industrial de Santander </h2>
+            <h3> Diseño con uP y uC (2024-1) </h3>
+        </section>
+
+        <section id="proyectos">
+            <div class="proyecto">
+                <img src="https://media.istockphoto.com/id/1155498000/es/foto/nodemcu-lua-esp8266.jpg?s=1024x1024&w=is&k=20&c=jTcFjinlWhnCrMp7NKfr7HcUPMTvUE6GHtdPpHa4UaM=">
+                <p> ESP32 Wifi + Bluetooth </p>
+            </div>
+            
+            <div class="proyecto">
+                <img src="https://lastminuteengineers.com/wp-content/uploads/iot/ESP32-Pinout.png">
+                <p> ESP32 Pinout </p>
+            </div>
+        </section>
+    </body>
+
+    <script>
+        console.log('My fist web page');
+        let proyectos = document.querySelector('#proyectos');
+        console.log(proyectos)
+        proyectos.style.background = 'white';
+    </script>
+</html>

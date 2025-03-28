@@ -1,0 +1,13 @@
+REFERENCIAS CONTROL DIGITAL PID:
+
+--> Playlist YT 'Diseño con uP y uC': https://www.youtube.com/playlist?list=PLv6gvnHHR69ujT0uuMxs_8P2LeX-OcSpc
+--> 'Controlador PID Discreto Trapezoidal': https://youtu.be/C5q1_TIybGs?si=HkVlhG_O5ylDqVvO
+--> 'Control PID': https://controlautomaticoeducacion.com/microcontroladores-pic/control-pid/#Control_PID
+--> 'Controladores PID discreto': https://controlautomaticoeducacion.com/control-realimentado/controladores-pid-discreto/#Controladores_PID_discreto
+--> 'Ejemplo PID Horno': https://youtu.be/9EmSybiSmOU
+--> https://www.picuino.com/es/control-pid.html
+--> https://www.picuino.com/es/control-pid-digital.html
+--> Playlist 'CONTROL PID ► [De forma Simple] 😎☑️': https://youtube.com/playlist?list=PLF-qcfymUY4WTF7efwQ0tfaEMsOsNC4p6&si=kS9qxhb40PYQ_Fsy 
+--> 'Acción de Control Proporcional': https://controlautomaticoeducacion.com/control-realimentado/control-pid-accion-proporcional/
+--> 'Acción de Control Integral – Control PID': https://controlautomaticoeducacion.com/control-realimentado/accion-de-control-integral-control-pid/
+--> 'Acción de Control Derivativo – Control PID': https://controlautomaticoeducacion.com/control-realimentado/accion-de-control-derivativo-control-pid/
