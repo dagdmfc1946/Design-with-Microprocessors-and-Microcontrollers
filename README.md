@@ -1,7 +1,7 @@
-# ACTIVIDADES EVALUATIVAS:
+# MikroC PROGRAMS:
 
 > [!NOTE]
-> Acá se encuentran las 9 evaluaciones que se realizaron en el transcurso del semestre, además de la evaluación opcional.
+> Acá se encuentran algunos archivos de programas realizados en el software MikroC donde se programan microcontroladores PIC, también están las simulaciones realizadas en Proteus de cada proyecto realizado.
 
 > [!CAUTION]
-> Se recomienda revisar detalladamente los códigos ya que pueden estar sujetos a mejoras para mejorar el funcionamiento y/o eficiencia del programa que se este ejecutando en la ESP32, inclusive para terminar de completar algún ejercicio que no este al 100% completo.
+> Se recomienda revisar detalladamente los códigos ya que pueden estar sujetos a mejoras para mejorar el funcionamiento y/o eficiencia del programa, inclusive para terminar de completar algún ejercicio que no este al 100% completo.

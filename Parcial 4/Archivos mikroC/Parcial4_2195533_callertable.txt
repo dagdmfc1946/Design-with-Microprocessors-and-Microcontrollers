@@ -1,6 +1,0 @@
-main
-	__CC2DW
-	InitMain
-		SPI1_Init_Advanced
-	signal_sen
-		SPI1_Write

@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\Program1_Debug.mcppi
+Project1=MyProject.mcppi
+Project2=Display_7_Seg.mcppi
+[ActiveProject]
+Index=2

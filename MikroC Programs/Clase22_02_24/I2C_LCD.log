@@ -1,0 +1,5 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP12F1822 -C -Y -DL -O1111110-1 -fo32 -N"D:\INGENIERIA ELECTRONICA\11. Onceavo Semestre\Diseño con uP y uC\MikroC Programs\Clase22_02_24\I2C_LCD.mcppi" -SP"D:\Program Files\Mikroelectronica\mikroC PRO for PIC\Defs\" -SP"D:\Program Files\Mikroelectronica\mikroC PRO for PIC\Uses\P16_Enh\" -SP"D:\INGENIERIA ELECTRONICA\11. Onceavo Semestre\Diseño con uP y uC\MikroC Programs\Clase22_02_24\" -IP"D:\Program Files\Mikroelectronica\mikroC PRO for PIC\Uses\P16_Enh\" "I2C_LCD.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_I2C_a12.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 112 [bytes], Available ROM: 2048 [bytes]	 
+diagnostics: 0	122	Compilation Started	stdint.h
+error: 168	324	Undeclared identifier 'delay_ms' in expression	I2C_LCD.c
+error: 0	102	Finished (with errors): 22 feb. 2024, 11:17:45	I2C_LCD.mcppi
