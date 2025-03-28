@@ -1,4 +1,4 @@
-# Design-with-Microprocessors-and-Microcontrollers (2024-1)
+# ACTIVIDADES EVALUATIVAS:
 
 > [!NOTE]
-> Este repositorio contiene algunos archivos de clases, documentación utilizada, evaluaciones realizadas y códigos en general.
+> Acá se encuentran las 9 evaluaciones que se realizaron en el transcurso del semestre, además de la evaluación opcional.

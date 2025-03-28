@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F45K50 -DL -O11111114 -fo4 -N"C:\Users\Alcides_Ramos\Desktop\TECLADO\MIKROC2018\TECLADO2018.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Alcides_Ramos\Desktop\TECLADO\MIKROC2018\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"C:\Users\Alcides_Ramos\Desktop\TECLADO\MIKROC2018\" "TECLADO2018.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Keypad4x4.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	TECLADO2018.c
+diagnostics: 198	123	Compiled Successfully	TECLADO2018.c
+diagnostics: 0	127	All files Compiled in 547 ms	 
+hint: 0	1144	Used RAM (bytes): 52 (3%)  Free RAM (bytes): 1975 (97%)	Used RAM (bytes): 52 (3%)  Free RAM (bytes): 1975 (97%)
+hint: 0	1144	Used ROM (bytes): 1865 (6%)  Free ROM (bytes): 30903 (94%)	Used ROM (bytes): 1865 (6%)  Free ROM (bytes): 30903 (94%)
+diagnostics: 0	125	Project Linked Successfully	TECLADO2018.mcppi
+diagnostics: 0	128	Linked in 578 ms	 
+diagnostics: 0	129	Project 'TECLADO2018.mcppi' completed: 1578 ms	 
+diagnostics: 0	103	Finished successfully: 02 ago. 2018, 09:38:08	TECLADO2018.mcppi
